@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import Header from '../components/ZipDetail/Header';
 import InfoZip from '../components/ZipDetail/InfoZip';
 import RecentUpdate from '../components/ZipDetail/RecentUpdate';
-import Review from '../components/ZipDetail/Review';
 import InfoMore from '../components/ZipDetail/InfoMore';
 import { SearchRTDB } from '../components/getDB/ReadDB';
 
